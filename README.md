@@ -1,9 +1,9 @@
-### COMPLETED! eumetsat_pipe is now available for download!
+### COMPLETED! 🌦 eumetsat_pipe is now available for download!
 
 
 Currently working on cosmological simulations!
 
-I'm currently looking for **data scientist**, **research engineer**, **meteorology** and **signal processing** contracts!
+I'm looking for **data scientist**, **research engineer**, **meteorology** and **signal processing** contracts right now!
 <!--
 **EduardoZB/EduardoZB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
