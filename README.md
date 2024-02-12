@@ -1,4 +1,4 @@
-### COMPLETED! 🌦 eumetsat_pipe is now available for download [here](/IntroductionEZB/Python/eumetsat_pipe)!
+### COMPLETED! 🌦 eumetsat_pipe is now available for download [here](EduardoZB/IntroductionEZB/Python/eumetsat_pipe)!
 
 
 Currently working on cosmological simulations!
